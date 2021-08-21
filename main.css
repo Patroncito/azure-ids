@@ -1,0 +1,133 @@
+body{
+    background-color: black;
+    font-family: "Roboto";
+}
+
+.contenedor{
+    max-width: 1280px;
+    width: 100%;
+    margin: auto;
+    padding-top: 5%;
+    
+}
+
+.contenedor2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contenedor2{
+    font-size: 60px;
+    margin: 0;
+}
+
+.contenedor2 p{
+    font-size: 15px;
+margin-bottom: 50px;
+color: white;
+}
+
+
+.contenedor img{
+    width: 375px;
+    height: 719px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-top: -40px;
+    transition: transform .3s; /* Animation */
+
+   
+}
+
+
+.contenedor img:hover{
+    transform: scale(1.1);
+}
+
+.contenedor3 {
+    width: 40%;
+    margin: 0;
+    
+}
+
+
+.contenedor3 h1 {
+    font-size: 110%;
+    color: white;
+    margin-top: 50px;
+}
+.contenedor3 p {
+color: rgb(210, 208, 208);
+font-size: 16px;
+text-align: justify;
+margin-bottom: 30px;
+font-weight: lighter;
+line-height: 30px;
+
+}
+
+.contenedor3 a {
+    font-family: "Roboto";
+    background-color: #4ed310;
+    font-size: 15px;
+    padding: 15px 45px 15px 45px; 
+    color: black;
+    display: inline-flex;
+    font-weight: bold;
+    text-decoration: inherit;
+    margin-bottom: 60px;
+}
+
+.boton{
+    margin-top: 30px;
+    transition: transform .3s; /* Animation */
+
+}
+
+.contenedor3 a:hover{
+    color: white;
+    background-color: #47c60d;;
+    transform: scale(1.1);
+}
+
+
+footer{
+    color: rgb(206, 203, 203);
+    text-align: center;
+    opacity: 50%;
+
+}
+
+
+
+
+/* #pages numero 2 */
+.header2 {
+    background-image: url(./foto1.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+
+.one p{
+    color: white    ;
+}
+
+.two {
+
+    background-image: url(./foto5.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.three {
+    background-image: url(./foto3.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.four {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
