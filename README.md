@@ -1,5 +1,9 @@
 🎖 Reto Microsoft Innovacion Virtual
+
+
 🎖 IA Rockstars 🤘🏼
+
+
 👨🏼‍💻 https://patroncito.github.io/azure-ids/ 
 
 
