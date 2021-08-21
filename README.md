@@ -5,3 +5,6 @@ Donde se puede visualizar la informacion tipo exposicion, todo con HTML y CSS pu
 Si, wordpress es mas bonito, pero para este caso era mas sencillo hacerlo manual, lo prometo.
 
 💚👻
+
+Puedes ver la pagina completa en este Link : https://patroncito.github.io/azure-ids/ 
+
